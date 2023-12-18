@@ -26,4 +26,52 @@ Ensure you have Python and pip installed. Clone the repository and install the r
 $ git clone https://github.com/Aniket-23/ImageCAC-2.git
 $ cd ImageCAC-2
 $ pip install flask python-opencv tensorflow matplotlib numpy
+```
+
+## Usage
+
+To run the application, execute the following commands:
+
+```bash
 $ python app.py
+```
+
+Visit http://localhost:5000 in your web browser to access the application.
+
+## Dependencies
+
+- Flask
+- OpenCV
+- NumPy
+- Matplotlib
+- Bootstrap (front-end styling)
+
+## File Structure
+
+```bash
+project-root/
+│
+├── app.py
+├── static/
+│   ├── css/
+│   │   └── style.css
+│   └── uploads/
+│
+├── templates/
+│   ├── index.html
+│   ├── uploadImage.html
+│   └── uploadSobel.html
+│
+└── ...
+```
+
+## How to Run
+
+Make sure to install the dependencies and then run the Flask application:
+
+```bash
+$ python app.py
+```
+
+## Screenshots
+
