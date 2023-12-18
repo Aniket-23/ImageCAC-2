@@ -23,6 +23,6 @@ This Flask web application allows users to upload 2D images and apply different 
 Ensure you have Python and pip installed. Clone the repository and install the required dependencies:
 
 ```bash
-$ git clone https://github.com/your-username/your-repository.git
-$ cd your-repository
-$ pip install -r requirements.txt
+$ git clone https://github.com/Aniket-23/ImageCAC-2.git
+$ cd ImageCAC-2
+$ pip install flask python-opencv tensorflow matplotlib numpy
