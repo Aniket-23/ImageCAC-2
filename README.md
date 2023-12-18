@@ -26,3 +26,10 @@ Ensure you have Python and pip installed. Clone the repository and install the r
 $ git clone https://github.com/Aniket-23/ImageCAC-2.git
 $ cd ImageCAC-2
 $ pip install flask python-opencv tensorflow matplotlib numpy
+
+## Usage
+
+To run the application, execute the following commands:
+
+```bash
+$ python app.py
